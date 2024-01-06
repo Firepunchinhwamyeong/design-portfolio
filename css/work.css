@@ -51,6 +51,6 @@
 /*section03: 마지막 인사*/
 #section03{width:100%; margin-bottom:80px;}
 #section03 .inner{width:1180px; margin:0 auto; background:#0f0f17; border-radius: 12px}
-#section03 .inner h4{font-size:32px; color:#fff; line-height: 160%; padding:40px;font-weight:500;}
+#section03 .inner h4{font-size:28px; color:#fff; line-height: 160%; padding:40px;font-weight:500;}
 #section03 .inner h4 a{color:#56CCF2;}
 #section03 .inner h4 a:hover{text-decoration: underline}
