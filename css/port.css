@@ -46,6 +46,7 @@
 /*section03: 먼스터 본문*/ 
 #section03{width:100%; margin-bottom:80px;}
 #section03 .inner {text-align: center;}
+#section03 .inner img{text-align: center;}
 #section03 .inner .link02{font-size:20px; text-decoration: underline; color:#2f81ed; display: block; width:780px; margin:0px auto 40px; line-height: 18px; text-align: left;}
 #section03 .inner .link02:hover{color:#75A4FF}
 #section03 .inner img:nth-child(1){width:100%;}
