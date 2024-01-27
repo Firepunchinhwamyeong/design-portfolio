@@ -17,7 +17,7 @@
 #section01 .inner{width:1180px; margin:0 auto; padding:40px 40px 0px 40px;}
 #section01 .inner h1{font-size:56px; line-height:140%; font-weight:200; color:#0F0F17;letter-spacing: 2px;}
 #section01 .inner h1 span{font-weight:bold;}
-#section01 .inner h4{font-size:18px; line-height:160%; margin-top:40px; font-weight:400; color:#4D4D55}
+#section01 .inner h4{font-size:18px; line-height:160%; margin-top:24px; font-weight:400; color:#4D4D55}
 #section01 .inner .btn{width:220px; height:62px; background:#2f2f37; text-align: center; line-height: 62px; border-radius: 5px; margin-top:32px; transition: all 0.5s; float:left; margin-right:20px;}
 #section01 .inner .btn a{color:#fff;font-size:18px; display:block;}
 #section01 .inner .btn01{background:#ffff; border:1px groove #2f2f37; box-sizing: border-box;}
