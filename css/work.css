@@ -24,7 +24,7 @@
 #section01 .inner .box .txtbox .line02{font-size:20px; letter-spacing: 1.5px;}
 #section01 .inner .box .tagBox{margin-top:40px; display:block;}
 #section01 .inner .box .tag{float:left; background:#f3f3f3; padding: 10px; border-radius: 4px; margin-right:8px; color:#878790}
-#section01 .inner .box .btn{width:220px; height:56px; background:#2f2f37; text-align: center; line-height: 56px; border-radius: 5px; margin-top:40px;}
+#section01 .inner .box .btn{width:160px; height:56px; background:#2f2f37; text-align: center; line-height: 56px; border-radius: 5px; margin-top:40px;}
 #section01 .inner .box .btn a{color:#fff;font-size:18px; display:block; transition:all 0.5s}
 #section01 .inner .box .btn a:hover{background:#000; border-radius: 5px;}
 
